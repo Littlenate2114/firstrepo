@@ -1,7 +1,2 @@
-Sequel Pro
-height="50">
+#Website Example
 ==========
-
-First README.md file
-
-link: [website](http://example.com)
